@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Fitnesstracker/static/css/main.03ab620e.chunk.css",
+    "main.js": "/React-Fitnesstracker/static/js/main.ce39ef19.chunk.js",
+    "main.js.map": "/React-Fitnesstracker/static/js/main.ce39ef19.chunk.js.map",
+    "runtime-main.js": "/React-Fitnesstracker/static/js/runtime-main.66cba608.js",
+    "runtime-main.js.map": "/React-Fitnesstracker/static/js/runtime-main.66cba608.js.map",
+    "static/js/2.a79a23ad.chunk.js": "/React-Fitnesstracker/static/js/2.a79a23ad.chunk.js",
+    "static/js/2.a79a23ad.chunk.js.map": "/React-Fitnesstracker/static/js/2.a79a23ad.chunk.js.map",
+    "static/js/3.7fb952e8.chunk.js": "/React-Fitnesstracker/static/js/3.7fb952e8.chunk.js",
+    "static/js/3.7fb952e8.chunk.js.map": "/React-Fitnesstracker/static/js/3.7fb952e8.chunk.js.map",
+    "index.html": "/React-Fitnesstracker/index.html",
+    "static/css/main.03ab620e.chunk.css.map": "/React-Fitnesstracker/static/css/main.03ab620e.chunk.css.map",
+    "static/js/2.a79a23ad.chunk.js.LICENSE.txt": "/React-Fitnesstracker/static/js/2.a79a23ad.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React-Fitnesstracker/static/media/fitness2.ad2a3493.jpg",
+    "static/media/fitness3.3688ab9c.jpg": "/React-Fitnesstracker/static/media/fitness3.3688ab9c.jpg",
+    "static/media/fitness4.75f63ca7.jpg": "/React-Fitnesstracker/static/media/fitness4.75f63ca7.jpg",
+    "static/media/fitness5.e4a72026.jpg": "/React-Fitnesstracker/static/media/fitness5.e4a72026.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66cba608.js",
+    "static/js/2.a79a23ad.chunk.js",
+    "static/css/main.03ab620e.chunk.css",
+    "static/js/main.ce39ef19.chunk.js"
+  ]
+}
